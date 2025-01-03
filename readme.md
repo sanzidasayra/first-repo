@@ -1,3 +1,3 @@
 # This is readme
-# You are rading me 
-# You will alwaus read me
+# You are reading me 
+# You will always read me
