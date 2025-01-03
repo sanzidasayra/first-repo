@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image: url("./sa.jpg");
+    height: 700px;
+    width: 960px;
+    background-size: cover;
+    object-fit: cover;
+
+}
+.lorem{
+    padding: 20px;
+}
+.butt{
+    padding: 10px;
+    font-size: larger;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.buts{
+    text-align: center;
+    
+}
+.butt:hover{
+    cursor: pointer;
+    background-color: palevioletred;
+    color: white;
+}

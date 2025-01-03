@@ -45,7 +45,7 @@ The basic folder structure of this React project is as follows:
 - **`App.js`**: The top-level React component where all other components are rendered.
 - **`Header.js` / `Footer.js`**: Reusable UI components.
 - **`Home.js` / `About.js`**: Page components for routing purposes.
-
+- **`index.html`** 
 ---
 
 ## Markup Language Basics
